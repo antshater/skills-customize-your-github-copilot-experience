@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn how to build REST APIs using FastAPI, with endpoints for listing, retrieving, creating, and searching blog posts.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-05-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
