@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "algorithmic-problem-solving",
+      "title": "Algorithmic Problem Solving",
+      "description": "Practice algorithm design and list processing with intermediate Python challenges.",
+      "path": "assignments/algorithmic-problem-solving",
+      "dueDate": "2026-06-09",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
